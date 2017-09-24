@@ -13,7 +13,13 @@ BBins=64
 2*np.pi to np.pi
 
 
+## graph
 ![8x8 lattice, 64 B fileds ](https://github.com/Jian2017/HofstaderButterfly/blob/master/plot.png?raw=true)
 
 
+## larger system
+![32x32 lattice](https://github.com/Jian2017/HofstaderButterfly/blob/master/butterfly.png?raw=true)
 
+## bugs
+the graphs do not look like the graph on the internetl, I am using open boundary condition,
+perhaps Pierels substitution gets some bugs
