@@ -17,6 +17,10 @@ BBins=64
 ![8x8 lattice, 64 B fileds ](https://github.com/Jian2017/HofstaderButterfly/blob/master/plot.png?raw=true)
 
 
+## another graph
+![16x16 lattice, 256 B fileds ](https://github.com/Jian2017/HofstaderButterfly/blob/master/butterfly2.png?raw=true)
+
+
 ## larger system
 ![32x32 lattice](https://github.com/Jian2017/HofstaderButterfly/blob/master/butterfly.png?raw=true)
 
