@@ -11,3 +11,9 @@ BBins=64
 
 ## (3)half the size with symmetry
 2*np.pi to np.pi
+
+
+![8x8 lattice, 64 B fileds ](https://github.com/Jian2017/HofstaderButterfly/blob/master/plot.png?raw=true)
+
+
+
