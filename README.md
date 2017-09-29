@@ -1,6 +1,9 @@
 # HofstaderButterfly
 2D square lattice tight bind model, with external B field, Peierls substitution
 
+[tight binding model with B field](https://topocondmat.org/w2_majorana/Peierls.html) use Peierls substitution 
+and a paper [Peierls substitution for magnetic Bloch bands](https://arxiv.org/pdf/1312.5931.pdf)
+
 
 # test.py
 ## (1)increase the system size L
